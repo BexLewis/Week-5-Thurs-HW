@@ -4,41 +4,679 @@
 	{
 		"name": "Process All Remaining Files and Folders",
 		"stepType": 1,
-		"uuidString": "B87235B0-C6B5-4097-9D7B-4AA390F95BD3"
+		"uuidString": "35A4F6C3-0BFD-49E6-8369-5D3A4A11F3FC"
 		}
 	],
 "creatorBuild": "29156",
 "files": {
-	"/css/styles.css": {
+	"/Dev/+img/contact-respon.jpg": {
+		"ft": 16384,
+		"iS": 16241,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/+img/contact-respon.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/+img/contact.jpg": {
+		"ft": 16384,
+		"iS": 7566,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/+img/contact.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/+img/gallery-respon.jpg": {
+		"ft": 16384,
+		"iS": 61095,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/+img/gallery-respon.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/+img/gallery/gallery-1-res.jpg": {
+		"ft": 16384,
+		"iS": 75433,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/+img/gallery/gallery-1-res.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/+img/gallery/gallery-1.jpg": {
+		"ft": 16384,
+		"iS": 10803,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/+img/gallery/gallery-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/+img/gallery/gallery-2-res.jpg": {
+		"ft": 16384,
+		"iS": 265972,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/+img/gallery/gallery-2-res.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/+img/gallery/gallery-2.jpg": {
+		"ft": 16384,
+		"iS": 16341,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/+img/gallery/gallery-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/+img/gallery/gallery-3-res.jpg": {
+		"ft": 16384,
+		"iS": 41909,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/+img/gallery/gallery-3-res.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/+img/gallery/gallery-3.jpg": {
+		"ft": 16384,
+		"iS": 9696,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/+img/gallery/gallery-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/+img/gallery/gallery-4-res.jpg": {
+		"ft": 16384,
+		"iS": 40405,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/+img/gallery/gallery-4-res.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/+img/gallery/gallery-4.jpg": {
+		"ft": 16384,
+		"iS": 8227,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/+img/gallery/gallery-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/+img/gallery/gallery-5-res.jpg": {
+		"ft": 16384,
+		"iS": 257872,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/+img/gallery/gallery-5-res.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/+img/gallery/gallery-5.jpg": {
+		"ft": 16384,
+		"iS": 11745,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/+img/gallery/gallery-5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/+img/gallery/gallery-6-res.jpg": {
+		"ft": 16384,
+		"iS": 29530,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/+img/gallery/gallery-6-res.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/+img/gallery/gallery-7-res.jpg": {
+		"ft": 16384,
+		"iS": 299295,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/+img/gallery/gallery-7-res.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/+img/habitat-button-bg.jpg": {
+		"ft": 16384,
+		"iS": 20294,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/+img/habitat-button-bg.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/+img/habitat-button-bg.png": {
+		"ft": 32768,
+		"iS": 130737,
+		"oA": 0,
+		"oAP": "/Dev/+img/habitat-button-bg.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/Dev/+img/habitat-hero.jpg": {
+		"ft": 16384,
+		"iS": 11875,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/+img/habitat-hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/+img/habitat-respon.jpg": {
+		"ft": 16384,
+		"iS": 440376,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/+img/habitat-respon.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/+img/habitat.jpg": {
+		"ft": 16384,
+		"iS": 9006,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/+img/habitat.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/+img/habitat.png": {
+		"ft": 32768,
+		"iS": 32676,
+		"oA": 0,
+		"oAP": "/Dev/+img/habitat.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/Dev/+img/hero-1-respon.jpg": {
+		"ft": 16384,
+		"iS": 68985,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/+img/hero-1-respon.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/+img/hero-1.jpg": {
+		"ft": 16384,
+		"iS": 7823,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/+img/hero-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/+img/housing-button-bg.jpg": {
+		"ft": 16384,
+		"iS": 47494,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/+img/housing-button-bg.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/+img/housing-hero.jpg": {
+		"ft": 16384,
+		"iS": 40655,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/+img/housing-hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/+img/housing-respon.jpg": {
+		"ft": 16384,
+		"iS": 345659,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/+img/housing-respon.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/+img/housing.jpg": {
+		"ft": 16384,
+		"iS": 8888,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/+img/housing.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/+img/terrarium-1.jpg": {
+		"ft": 16384,
+		"iS": 248049,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/+img/terrarium-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/+img/terrarium-2.jpg": {
+		"ft": 16384,
+		"iS": 253923,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/+img/terrarium-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/css/styles.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/css/styles-min.css",
+		"oAP": "/Dev/css/styles-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"/index.html": {
+	"/Dev/img/contact-respon.jpg": {
+		"ft": 16384,
+		"iS": 16241,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/img/contact-respon.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/img/contact.jpg": {
+		"ft": 16384,
+		"iS": 7566,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/img/contact.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/img/gallery-respon.jpg": {
+		"ft": 16384,
+		"iS": 61095,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/img/gallery-respon.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/img/gallery/gallery-1-res.jpg": {
+		"ft": 16384,
+		"iS": 75433,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/img/gallery/gallery-1-res.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/img/gallery/gallery-1.jpg": {
+		"ft": 16384,
+		"iS": 10803,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/img/gallery/gallery-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/img/gallery/gallery-2-res.jpg": {
+		"ft": 16384,
+		"iS": 265972,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/img/gallery/gallery-2-res.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/img/gallery/gallery-2.jpg": {
+		"ft": 16384,
+		"iS": 16341,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/img/gallery/gallery-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/img/gallery/gallery-3-res.jpg": {
+		"ft": 16384,
+		"iS": 41909,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/img/gallery/gallery-3-res.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/img/gallery/gallery-3.jpg": {
+		"ft": 16384,
+		"iS": 9696,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/img/gallery/gallery-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/img/gallery/gallery-4-res.jpg": {
+		"ft": 16384,
+		"iS": 40405,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/img/gallery/gallery-4-res.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/img/gallery/gallery-4.jpg": {
+		"ft": 16384,
+		"iS": 8227,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/img/gallery/gallery-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/img/gallery/gallery-5-res.jpg": {
+		"ft": 16384,
+		"iS": 257872,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/img/gallery/gallery-5-res.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/img/gallery/gallery-5.jpg": {
+		"ft": 16384,
+		"iS": 11745,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/img/gallery/gallery-5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/img/gallery/gallery-6-res.jpg": {
+		"ft": 16384,
+		"iS": 29530,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/img/gallery/gallery-6-res.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/img/gallery/gallery-7-res.jpg": {
+		"ft": 16384,
+		"iS": 299295,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/img/gallery/gallery-7-res.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/img/habitat-button-bg.jpg": {
+		"ft": 16384,
+		"iS": 20294,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/img/habitat-button-bg.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/img/habitat-button-bg.png": {
+		"ft": 32768,
+		"iS": 130737,
+		"oA": 0,
+		"oAP": "/Dev/img/habitat-button-bg.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/Dev/img/habitat-hero.jpg": {
+		"ft": 16384,
+		"iS": 11875,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/img/habitat-hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/img/habitat-respon.jpg": {
+		"ft": 16384,
+		"iS": 440376,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/img/habitat-respon.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/img/habitat.jpg": {
+		"ft": 16384,
+		"iS": 9006,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/img/habitat.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/img/habitat.png": {
+		"ft": 32768,
+		"iS": 32676,
+		"oA": 0,
+		"oAP": "/Dev/img/habitat.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/Dev/img/hero-1-respon.jpg": {
+		"ft": 16384,
+		"iS": 81302,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/img/hero-1-respon.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/Dev/img/hero-1.jpg": {
+		"ft": 16384,
+		"iS": 7823,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/img/hero-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/img/housing-button-bg.jpg": {
+		"ft": 16384,
+		"iS": 47494,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/img/housing-button-bg.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/img/housing-hero.jpg": {
+		"ft": 16384,
+		"iS": 40655,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/img/housing-hero.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/img/housing-respon.jpg": {
+		"ft": 16384,
+		"iS": 345659,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/img/housing-respon.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/img/housing.jpg": {
+		"ft": 16384,
+		"iS": 8888,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/img/housing.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/img/terrarium-1.jpg": {
+		"ft": 16384,
+		"iS": 248049,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/img/terrarium-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/img/terrarium-2.jpg": {
+		"ft": 16384,
+		"iS": 253923,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/Dev/img/terrarium-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/Dev/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/index.html",
+		"oAP": "/Dev/index.html",
 		"oF": 0
 		},
-	"/js/scripts.js": {
+	"/Dev/js/scripts.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "/js/scripts-min.js",
+		"oAP": "/Dev/js/scripts-min.js",
 		"oF": 0,
-		"sC": 1,
+		"sC": 3,
 		"tS": 0
 		},
-	"/scss/base/_base.scss": {
+	"/Dev/scss/base/_base.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -46,12 +684,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/scss/base/_base.css",
+		"oAP": "/Dev/scss/base/_base.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"/scss/base/_normalize.scss": {
+	"/Dev/scss/base/_normalize.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -59,12 +697,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/scss/base/_normalize.css",
+		"oAP": "/Dev/scss/base/_normalize.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"/scss/base/_typography.scss": {
+	"/Dev/scss/base/_typography.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -72,12 +710,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/scss/base/_typography.css",
+		"oAP": "/Dev/scss/base/_typography.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"/scss/components/_buttons.scss": {
+	"/Dev/scss/components/_buttons.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -85,12 +723,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/scss/components/_buttons.css",
+		"oAP": "/Dev/scss/components/_buttons.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"/scss/components/_forms.scss": {
+	"/Dev/scss/components/_forms.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -98,12 +736,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/scss/components/_forms.css",
+		"oAP": "/Dev/scss/components/_forms.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"/scss/components/_navigation.scss": {
+	"/Dev/scss/components/_navigation.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -111,12 +749,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/scss/components/_navigation.css",
+		"oAP": "/Dev/scss/components/_navigation.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"/scss/helpers/_mixins.scss": {
+	"/Dev/scss/helpers/_mixins.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -124,12 +762,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/scss/helpers/_mixins.css",
+		"oAP": "/Dev/scss/helpers/_mixins.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"/scss/helpers/_variables.scss": {
+	"/Dev/scss/helpers/_variables.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -137,12 +775,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/scss/helpers/_variables.css",
+		"oAP": "/Dev/scss/helpers/_variables.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"/scss/layout/_footer.scss": {
+	"/Dev/scss/layout/_footer.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -150,12 +788,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/scss/layout/_footer.css",
+		"oAP": "/Dev/scss/layout/_footer.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"/scss/layout/_header.scss": {
+	"/Dev/scss/layout/_header.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -163,12 +801,77 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/scss/layout/_header.css",
+		"oAP": "/Dev/scss/layout/_header.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"/scss/styles.scss": {
+	"/Dev/scss/sections/_contact.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/Dev/scss/sections/_contact.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/Dev/scss/sections/_gallery.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/Dev/scss/sections/_gallery.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/Dev/scss/sections/_habitat.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/Dev/scss/sections/_habitat.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/Dev/scss/sections/_hero-1.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/Dev/scss/sections/_hero-1.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/Dev/scss/sections/_housing.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/Dev/scss/sections/_housing.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/Dev/scss/styles.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -176,7 +879,7 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/css/styles.css",
+		"oAP": "/Dev/css/styles.css",
 		"oF": 2,
 		"oS": 0,
 		"uL": 1
@@ -187,10 +890,10 @@
 "manualImportLinks": {
 	},
 "projectAttributes": {
-	"creationDate": 583291970.81443405,
-	"displayValue": "1. Template Dev Folder",
+	"creationDate": 584548606.00492799,
+	"displayValue": "Bex-Web-2",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "meme-leo",
+	"iconImageName": "brackets_green",
 	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
@@ -2066,7 +2769,7 @@
 		"bundleFormat": 0,
 		"createSourceMap": 0,
 		"minifyOutput": 1,
-		"syntaxCheckerStyle": 1,
+		"syntaxCheckerStyle": 3,
 		"transpilerStyle": 0
 		},
 	"languageDefaultsJSON": {
@@ -2099,7 +2802,7 @@
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 1,
 		"enableJavascript": 0,
-		"ieCompatibility": 1,
+		"ieCompatibility": 0,
 		"mathStyle": 0,
 		"outputStyle": 0,
 		"rewriteURLStyle": 0,
