@@ -3,16 +3,46 @@
 ============= */
 header {
     background-color: $headerbg;
-    color: $white;
+    position: fixed;
+    top:0;
+    width: 100%;
     display: grid;
     grid-template-columns: 20% auto;
-    height: 70px;
+    grid-template-areas:
+    "burger ."
+    "nav nav";
 
-    nav {
-        padding: 15px;
+    @include lg{
+        grid-template-areas:
+        "nav ."
+    }
 
-        i {
-            font-size: rem-calc(40);
+    section{
+        grid-area:burger;
+        button{
+            background-color: $headerbg;
+            border: none;
+            outline: none;
+            color:$white;
+            }
+        @include lg{
+            display: none;
+            margin: 0;
         }
     }
+
+    nav{
+        grid-area:nav;
+        display: none;
+        background-color: rgba(0,0,0,.5);
+
+
+        @include lg{
+            display: block !important;
+            background-color: $headerbg;
+
+        }
+    }
+
+
 }

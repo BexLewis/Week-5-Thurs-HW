@@ -445,19 +445,72 @@ textarea {
 /* =============
     Navigation
 ============= */
+header {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 1.4375rem; }
+  header a:link,
+  header a:visited {
+    color: #fff; }
+  header a:active,
+  header a:hover {
+    color: #000; }
+    @media (min-width: 990px) {
+      header a:active,
+      header a:hover {
+        border-bottom: 2px solid #000;
+        padding-bottom: 3px; } }
+  header section {
+    padding: 10px;
+    font-size: 2.1875rem; }
+  header nav ul {
+    margin: 10px 20px; }
+    @media (min-width: 990px) {
+      header nav ul {
+        display: flex;
+        justify-content: flex-start;
+        margin: 10px; } }
+    header nav ul li {
+      color: #fff; }
+      @media (min-width: 990px) {
+        header nav ul li {
+          padding: 0 10px;
+          border-right: 2px solid #fff; } }
+    header nav ul li:last-child {
+      border: none; }
+
 /* =============
     Header
 ============= */
 header {
   background-color: #72B107;
-  color: #fff;
+  position: fixed;
+  top: 0;
+  width: 100%;
   display: grid;
   grid-template-columns: 20% auto;
-  height: 70px; }
+  grid-template-areas: "burger ." "nav nav"; }
+  @media (min-width: 990px) {
+    header {
+      grid-template-areas: "nav ."; } }
+  header section {
+    grid-area: burger; }
+    header section button {
+      background-color: #72B107;
+      border: none;
+      outline: none;
+      color: #fff; }
+    @media (min-width: 990px) {
+      header section {
+        display: none;
+        margin: 0; } }
   header nav {
-    padding: 15px; }
-    header nav i {
-      font-size: 2.5rem; }
+    grid-area: nav;
+    display: none;
+    background-color: rgba(0, 0, 0, 0.5); }
+    @media (min-width: 990px) {
+      header nav {
+        display: block !important;
+        background-color: #72B107; } }
 
 /* =============
     Footer
